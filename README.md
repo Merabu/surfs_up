@@ -9,6 +9,13 @@ Average temperature for June of 75 higher than that of December.
 A total of 1700 temperatures was recorded in June as compared to 1517 recorded in December.
 The December temperature is spread out as compared to June.
 
+![June temperature](https://user-images.githubusercontent.com/115379848/218289866-3f40712d-f0b5-430b-8e34-68300317fb90.png)
+
+
+![Decemeber temperature](https://user-images.githubusercontent.com/115379848/218289868-26c69600-7d49-4045-8dd3-d7770994b938.png)
+
+
+
 ## Summary:
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 The data states that a high-level summary of the result that SD is 3.25 in June and 3.75 in December making a 0.5 difference between both seasons.
